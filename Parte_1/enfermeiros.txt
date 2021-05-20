@@ -1,0 +1,19 @@
+12345:Ana Correia:CSLisboa:0:0
+98765:Francisco Barbosa:CSPorto:0:1
+54689:Ana Sofia:CSPortimão:0:0
+85742:Joana Conceicao:CSBraga:0:1
+45217:Maria Ana:CSPaçoArcos:0:1
+456821:Anacacho Maria:CSSetubal:0:1
+76239:Afonso Aguas:CSCaxias:0:0
+57964:Irene Ferreira:CSCascais:0:1
+12346:Maria:CSQueluz:0:0
+56321:Henrique Aguas:CSGuarda:0
+36875:Afonso Aguas:CSOdelouca:0:0
+68576:Joaquim Migueis:CSBraganca:0:1
+84684:Tomas Maria:CSArouca:0:0
+87469:Miguel Gota:CSMemMartins:0:0
+78597:Salvador Ferreira:CSAlentejo:0:0
+56413216:macaco:CSViso:0:1
+23456543:Jose Antonio:CSPortimao:0:0
+4567:Jose Filipe:CSSines:0:1
+98789:Luis Babiano:CSCacem:0:1
